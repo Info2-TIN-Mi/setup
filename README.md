@@ -25,6 +25,19 @@ The `.vscode` directory contains the following files:
 - `settings.json`
 - `tasks.json`
 
+## Tools
+
+1. Install the following tools in your computer:
+
+  - Docker,
+  - VSCode,
+  - Github Desktop,
+
+2. Create an account on https://github.com/:
+
+  - use your HIEG-VD email,
+  - send your account name to the professor.
+
 ## Start the work
 
 - open `VSCode`,
@@ -41,8 +54,8 @@ When ready, open a terminal (menu `Terminal / New Terminal`) and verify that you
 
 ## Last check
 
-- pull the `labo01` for the classroom repository in the root directory
-- in the terminal, enter to this new lab's directory (command: `cd /workspaces/00002-INFO2/02-LABOS/labo01`)
+- get the files of `labo01` from the classroom repository and make a copy in your root directory,
+- in the terminal, enter to this new lab's directory (command: `cd /workspaces/00002-INFO2/02-LABOS/labo01`),
 - run the commande `make` which will go through the whole process of executable generation and test.
 
 By the end, the message `ok.` must be displayed as a correct result, as shown below.
