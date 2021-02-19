@@ -36,7 +36,12 @@ The `.vscode` directory contains the following files:
 2. Create an account on https://github.com/:
 
   - use your HIEG-VD email,
-  - send your account name to the professor.
+  - send your account name to the professor,
+
+3. VSCode configuration: add the following extensions:
+
+  - C/C++ IntelliSense, debugging, and code browsing,
+  - Remote - Containers.
 
 ## Start the work
 
@@ -56,7 +61,7 @@ When ready, open a terminal (menu `Terminal / New Terminal`) and verify that you
 
 - get the files of `labo01` from the classroom repository and make a copy in your root directory,
 - in the terminal, enter to this new lab's directory (command: `cd /workspaces/00002-INFO2/02-LABOS/labo01`),
-- run the commande `make` which will go through the whole process of executable generation and test.
+- run the command `make` which will go through the whole process of executable generation and test.
 
 By the end, the message `ok.` must be displayed as a correct result, as shown below.
 
