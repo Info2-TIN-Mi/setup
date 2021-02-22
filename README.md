@@ -35,7 +35,7 @@ The `.vscode` directory contains the following files:
 
 2. Create an account on https://github.com/:
 
-  - use your HIEG-VD email,
+  - use your HEIG-VD email,
   - send your account name to the professor,
 
 3. VSCode configuration: add the following extensions:
